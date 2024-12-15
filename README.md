@@ -25,10 +25,3 @@ El programa ofrece las siguientes opciones:
 
 - **Compilador C++** compatible con C++11 o superior (e.g., GCC, Clang, MSVC).
 - Sistema operativo Windows, Linux o macOS.
-
-## Cómo usarlo
-
-1. **Clona el repositorio**:
-   ```bash
-   git clone https://github.com/tu-usuario/LibrarySystem.git
-   cd LibrarySystem
